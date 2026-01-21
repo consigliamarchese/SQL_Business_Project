@@ -1,5 +1,4 @@
 # SQL_Business_Project
-Progetto SQL sviluppato durante il Master in Data Analytics. Il database gestisce vendite, magazzini e livelli di stock per una catena di supermercati. Le vendite nei negozi aggiornano dinamicamente le scorte di magazzino e permettono il monitoraggio delle soglie di restock, con una struttura pensata per scenari scalabili.
 
 📌 Panoramica
 
