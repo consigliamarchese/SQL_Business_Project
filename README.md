@@ -19,7 +19,7 @@ Quando le scorte scendono sotto la soglia, viene generato un ordine di rifornime
 
 Progettato secondo principi di normalizzazione
 
-Entità principali: Magazzini, Negozi, Prodotti, Categorie, Stock Levels, Transazioni di vendita
+Entità principali: Magazzini, Negozi, Prodotti, Categorie, Stock Levels, Transazioni di vendita (Sales)
 
 SALES: chiave primaria composita (SalesID, LineID), StoreID come FK verso STORES
 
@@ -31,7 +31,7 @@ Aggiornamento stock a livello di magazzino in base alle vendite
 
 Monitoraggio soglie di restock per categoria
 
-Design scalabile per più negozi per magazzino, anche se il dataset di esempio ha un solo store per magazzino
+Design scalabile che supporta più negozi riforniti da un singolo magazzino
 
 🔍 Funzionalità principali
 
@@ -87,7 +87,7 @@ Main entities:
 - Products
 - Categories
 - Stock Levels
-- Sales Transactions
+- Sales 
 
 The ER diagram included in the repository shows:
 - primary and foreign keys
