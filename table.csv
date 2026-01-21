@@ -1,0 +1,11 @@
+ProductID,CategoryID,WarehouseID,Stock,CategoryID,CategoryName,RestockLevel,ProductID,ProductName,CategoryID,MaxUnitSalesPrice
+501,1,101,9,1,Elettronica,10,501,"Smartphone Alpha",1,699.99
+501,1,101,9,1,Elettronica,10,502,"Laptop Pro 15",1,1200.00
+502,1,101,20,1,Elettronica,10,501,"Smartphone Alpha",1,699.99
+502,1,101,20,1,Elettronica,10,502,"Laptop Pro 15",1,1200.00
+503,2,102,50,2,Abbigliamento,20,503,"T-Shirt Basic Cotton",2,19.90
+503,2,102,50,2,Abbigliamento,20,504,"Jeans Denim Slim",2,49.50
+504,2,102,80,2,Abbigliamento,20,503,"T-Shirt Basic Cotton",2,19.90
+504,2,102,80,2,Abbigliamento,20,504,"Jeans Denim Slim",2,49.50
+505,3,103,30,3,"Casa e Cucina",15,505,"Macchina Caffè",3,89.00
+506,4,103,15,4,Sport,5,506,"Set Manubri 10kg",4,35.00
