@@ -57,7 +57,6 @@ Eseguire gli script di creazione delle tabelle
 
 Inserire dati di esempio
 
-Eseguire query di aggiornamento e monitoraggio stock
 ----------------------------------------------------------------
 ENG # 🏬 Inventory & Order Management System – VendiCose SpA
 
